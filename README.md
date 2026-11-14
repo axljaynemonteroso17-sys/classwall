@@ -3,6 +3,7 @@ Class Wall
 IT 110 Activity: Cookies, Sessions and PostgreSQL
 
 Project Description
+
 Class Wall is a simple message board created using PHP and PostgreSQL. Visitors can post messages, search for messages, and see messages posted by other users. 
 Also it uses cookies to remember a visitor's name and sessions to count their visits.
 
